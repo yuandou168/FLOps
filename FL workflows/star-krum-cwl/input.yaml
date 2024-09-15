@@ -1,0 +1,5 @@
+initial_global_model:
+  class: File
+  path: /path/to/initial_global_model.pth
+client_data: []  # If you want to pass any data
+num_rounds: 5
